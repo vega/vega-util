@@ -1,4 +1,5 @@
 export default function(str, length, align, ellipsis) {
+  str = str.toString();
   var e = ellipsis != null ? ellipsis : '\u2026',
       s = str + '',
       n = s.length,
