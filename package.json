@@ -11,6 +11,7 @@
     "name": "Jeffrey Heer",
     "url": "http://idl.cs.washington.edu"
   },
+  "types": "index.d.ts",
   "main": "build/vega-util.js",
   "module": "index",
   "jsnext:main": "index",
